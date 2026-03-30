@@ -4,6 +4,7 @@ void main(){
   for(int i=1;i<=10;i++){
     print('$i-Bhadan');
   }
+
 //Multiplication
   print('Enter number:');
   String? input=stdin.readLineSync();
@@ -21,6 +22,7 @@ void main(){
   for(int index=0;index<num.length;index++){
     print('Hi,My friend ${num[index]}');
   }
+
   List<int> gpNum=[01313673597,01313673596,016474608595,01736373637];
   for(int index=0;index<gpNum.length;index++){
     print("${gpNum[index]} -🔥 *GP Special Offer! ");
@@ -30,7 +32,7 @@ void main(){
     print('$num -🔥 *GP Special Offer!');
   }
 
-
+//Map multi user
    print("Map multi user");
 
 
