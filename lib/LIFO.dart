@@ -1,3 +1,4 @@
+
 class stack<E> {
   final List _stack = <E>[];
   void push(E value) {
