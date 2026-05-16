@@ -1,5 +1,4 @@
 import 'dart:collection';
-
 void main() {
   final Queue<String> myQueue = DoubleLinkedQueue();
   print('Queue is empty: ${myQueue.isEmpty}');
